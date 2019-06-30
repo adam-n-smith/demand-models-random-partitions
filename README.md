@@ -1,6 +1,6 @@
 # Demand Models with Random Partitions
 
-This repository contains the source code to implement the location-scale partitioning (LSP) methodology of Smith and Allenby (2019).
+This repository contains the R and Rcpp source code to implement the location-scale partitioning (LSP) methodology of Smith and Allenby (2019).
 
 ## List of Files 
 
